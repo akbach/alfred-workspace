@@ -6,7 +6,7 @@
 ### Clone repo
 
 ```
-git clone 
+git clone https://github.com/akbach/alfred-workspace.git
 ```
 
 ### link to alfred workflows
