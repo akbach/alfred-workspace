@@ -11,7 +11,7 @@ git clone https://github.com/akbach/alfred-workspace.git
 
 ### link to alfred workflows
 ```
-ln -s `pwd`/alfred-workspace /Users/ach/Library/Application\ Support/Alfred\ 3/Alfred.alfredpreferences/workflows
+ln -s `pwd`/alfred-workspace ~/Library/Application\ Support/Alfred\ 3/Alfred.alfredpreferences/workflows
 ```
 
 # Usage
