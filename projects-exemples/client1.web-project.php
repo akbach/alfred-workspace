@@ -1,8 +1,8 @@
 <?php
 $projects[] = [
-    'client'=>'quicktech',
-    'title' => 'KeepWhite-API',
-    'subtitle' => 'KeepWhite-API',
+    'client'=>'client1',
+    'title' => 'client1 web project',
+    'subtitle' => 'client1-API',
     'actions' => function () {
         $folder = '/Users/ach/Workspace/clients/client1/web-app';
         $apiFile = '/Users/ach/Workspace/clients/client1/web-app/kw.paw';
